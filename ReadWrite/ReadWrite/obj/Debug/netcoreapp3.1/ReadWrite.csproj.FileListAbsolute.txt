@@ -1,0 +1,13 @@
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.csprojAssemblyReference.cache
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.AssemblyInfoInputs.cache
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.AssemblyInfo.cs
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\bin\Debug\netcoreapp3.1\ReadWrite.exe
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\bin\Debug\netcoreapp3.1\ReadWrite.deps.json
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\bin\Debug\netcoreapp3.1\ReadWrite.runtimeconfig.json
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\bin\Debug\netcoreapp3.1\ReadWrite.runtimeconfig.dev.json
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\bin\Debug\netcoreapp3.1\ReadWrite.dll
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\bin\Debug\netcoreapp3.1\ReadWrite.pdb
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.dll
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.pdb
+C:\Users\guill\source\repos\ReadWrite\ReadWrite\obj\Debug\netcoreapp3.1\ReadWrite.genruntimeconfig.cache
